@@ -1,5 +1,6 @@
 ### ✨ Who am I?
-My name is Arghya Das.
+My name is Arghya Das. Currently I am a B.Tech student and I love to learn new 
+technology. Now days I am working on my problem solving skills on @leetcode and beside that I am working on my FrontEnd Development Skill.
 
 <!--
 **alfaArghya/alfaArghya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
