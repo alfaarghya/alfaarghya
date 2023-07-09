@@ -12,6 +12,10 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
 
 ### 🌐Social Networks
 
+- LinkedIN: <a href = "mailto:arghya.coding@gmail.com?subject= " target="_blank" >Arghya Das</a>
+
+- LeetCode: <a  href = "arghya.coding@gmail.com" target="_blank">arghya.coding@gmail.com</a>
+
 - 📫 How to reach me: arghya.coding@gmail.com
 
 <!--
