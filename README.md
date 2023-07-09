@@ -6,7 +6,7 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
 <div style = "disply : flex">
   <img width = "150" height = "62" src = "https://github.com/alfaArghya/alfaArghya/blob/main/assets/java.png">
   <img  width = "150" src = "https://github.com/alfaArghya/alfaArghya/blob/main/assets/html.svg">
-  <img  width = "150" height = "62" src = "https://github.com/alfaArghya/alfaArghya/blob/main/assets/css.svg">
+  <img   src = "https://github.com/alfaArghya/alfaArghya/blob/main/assets/css.svg">
   <img  src = "https://github.com/alfaArghya/alfaArghya/blob/main/assets/bootstrap.svg">
 </div>
 
