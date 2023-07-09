@@ -13,7 +13,7 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
 ### 🌐Social Networks
 <div>
   <div>
-      - LinkedIN: <a href = "https://www.linkedin.com/in/alfaarghya/" target="_blank" >Arghya Das</a>
+      - LinkedIN: <a href = "mailto:arghya.coding@gmail.com?subject= " target="_blank" >Arghya Das</a>
   </div>
   <div>
       - LeetCode: 
