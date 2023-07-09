@@ -16,7 +16,7 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
 
 - LeetCode: <a  href = "https://leetcode.com/alfa_arghya/" target="_blank">alfaArghya</a>
 
-- Instagram: <a  href = "https://www.instagram.com/__alfaarghya__/" target="_blank">__alfaArghya__</a>
+- Instagram: <a  href = "https://www.instagram.com/__alfaarghya__/" target="_blank"> __alfaArghya__ </a>
 
 - 📫 How to reach me: arghya.coding@gmail.com
 
