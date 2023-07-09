@@ -2,7 +2,7 @@
 My name is Arghya Das. Currently I am a B.Tech student and I love to learn new 
 technology. Now days I am working on my problem solving skills on @leetcode and beside that I am working on my FrontEnd Development Skill.
 
-###👨🏽‍💻Technologies that I use
+### 👨🏽‍💻Technologies that I use
 <img width = "154" src = "https://github.com/alfaArghya/alfaArghya/blob/main/assets/java.png">
 
 <!--
