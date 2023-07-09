@@ -18,7 +18,7 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
 
 - Instagram: <a  href = "https://www.instagram.com/__alfaarghya__/" target="_blank"> __alfaArghya__ </a>
 
-- 📫 How to reach me: arghya.coding@gmail.com
+- 📫Reach me: arghya.coding@gmail.com
 
 <!--
 **alfaArghya/alfaArghya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
