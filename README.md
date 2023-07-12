@@ -14,7 +14,7 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
 </div>
 
 ### :fire: My Stats :
-  <img   src = "http://github-readme-streak-stats.herokuapp.com?user=alfaArghya&theme=radical)](https://git.io/streak-stats">
+  <img   src = "http://github-readme-streak-stats.herokuapp.com?user=alfaArghya&theme=radical)">
    <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=alfaArghya&show_icons=true&theme=dark"
