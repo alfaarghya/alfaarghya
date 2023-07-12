@@ -19,25 +19,9 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfaArghya&theme=github-dark-blue)](https://git.io/streak-stats)
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfaArghya&theme=blueberry-duo)](https://git.io/streak-stats)-->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfaArghya&theme=transparent)](https://git.io/streak-stats)-->
-![Arghya's github stats](https://github-readme-stats.vercel.app/api?username=alfaArghya&theme=github_dark_blue)
-<!--https://github.com/alfaArghya/github-readme-stats
-https://github.com/PencilNavigator/readme-stats-URL/-->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfaArghya)](https://github.com/alfaArghya/github-readme-stats)
+<!-- ![Arghya's github stats](https://github-readme-stats.vercel.app/api?username=alfaArghya&theme=github_dark_blue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfaArghya)](https://github.com/alfaArghya/github-readme-stats) -->
   
-   <!-- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=alfaArghya&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=alfaArghya&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=alfaArghya&show_icons=true" />
-</picture> -->
-  
-
 ### 🌐 Social Networks
 
 - LinkedIN: <a href = "https://www.linkedin.com/in/alfaarghya/" target="_blank" >Arghya Das</a>
