@@ -14,8 +14,8 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
 </div>
 
 ### :fire: My Stats :
-  <img   src = "https://github-readme-stats.vercel.app/api?username=alfaArghya&theme=holi&show_icons=true">
-
+ <!-- <img   src = "https://github-readme-stats.vercel.app/api?username=alfaArghya&theme=holi&show_icons=true"> -->
+![Arghya's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfaArghya&theme=dark&show_icons=true)
   
    <!-- <picture>
   <source
