@@ -23,7 +23,7 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
 <!--https://github.com/alfaArghya/github-readme-stats
 https://github.com/PencilNavigator/readme-stats-URL/-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfaArghya)](https://github.com/alfaArghya/github-readme-stats)
   
    <!-- <picture>
   <source
