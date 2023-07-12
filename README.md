@@ -20,7 +20,7 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfaArghya&theme=blueberry-duo)](https://git.io/streak-stats)-->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfaArghya&theme=transparent)](https://git.io/streak-stats)-->
 
-![Arghya's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfaArghya&theme=default&show_icons=true)
+[![Arghya's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfaArghya&theme=default&show_icons=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfaArghya&layout=compact&theme=vision-friendly-dark)](https://github.com/alfaArghya/readme-stats-URL)
 
