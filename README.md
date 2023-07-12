@@ -13,6 +13,9 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
   <img  src = "https://github.com/alfaArghya/alfaArghya/blob/main/assets/bootstrap.svg">
 </div>
 
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=alfaArghya
+
 ### 🌐 Social Networks
 
 - LinkedIN: <a href = "https://www.linkedin.com/in/alfaarghya/" target="_blank" >Arghya Das</a>
