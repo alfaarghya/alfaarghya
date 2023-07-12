@@ -13,7 +13,7 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
   <img  src = "https://github.com/alfaArghya/alfaArghya/blob/main/assets/bootstrap.svg">
 </div>
 
-### :fire: My Stats :
+<--! ### :fire: My Stats :
   <img   src = "[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfaArghya&theme=radical)](https://git.io/streak-stats)">
    <picture>
   <source
@@ -25,7 +25,7 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=alfaArghya&show_icons=true" />
-</picture>
+</picture> -->
   
 
 ### 🌐 Social Networks
