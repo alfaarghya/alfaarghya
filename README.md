@@ -22,7 +22,10 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
 
 ![Arghya's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfaArghya&theme=default&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfaArghya&layout=compact&theme=vision-friendly-dark)](https://github.com/alfaArghya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfaArghya&layout=compact&theme=vision-friendly-dark)](https://github.com/alfaArghya/readme-stats-URL)
+
+<!--https://github.com/alfaArghya/github-readme-stats
+https://github.com/PencilNavigator/readme-stats-URL/-->
   
    <!-- <picture>
   <source
