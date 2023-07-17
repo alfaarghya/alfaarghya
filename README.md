@@ -12,7 +12,7 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfaArghya&theme=blueberry-duo)](https://git.io/streak-stats)-->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfaArghya&theme=transparent)](https://git.io/streak-stats)-->
 <!-- ![Arghya's github stats](https://github-readme-stats.vercel.app/api?username=alfaArghya&theme=github_dark_blue) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfaArghya)](https://github.com/alfaArghya/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfaArghya)](https://github.com/alfaArghya/github-readme-stats) -->
 
 ### 👨🏽‍💻Technologies that I use
 <div style = "disply : flex">
