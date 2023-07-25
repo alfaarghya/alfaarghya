@@ -3,7 +3,7 @@ My name is Arghya Das. Currently I am a B.Tech student and I love to learn new
 technology. Now days I am working on my problem solving skills on @leetcode and beside that I am working on my FrontEnd Development Skill.
 
 ### My latest post
-- <a  href = "https://www.linkedin.com/posts/alfaarghya_frontend-frontenddevelopment-frontenddesign-activity-7083345311896674304-si6G?utm_source=share&utm_medium=member_desktop" target="_blank"> Tesla-Homepage-Clone </a>
+- <a  href = "https://www.linkedin.com/posts/alfaarghya_frontend-frontenddevelopment-frontenddesign-activity-7083345311896674304-si6G?utm_source=share&utm_medium=member_desktop" target="_blank"> Pixel Art Palette </a>
 
 ### :fire: My Stats :
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfaArghya&theme=holi-theme&show_icon=true)](https://git.io/streak-stats)-->
