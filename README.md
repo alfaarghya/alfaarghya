@@ -19,6 +19,7 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
   <img width = "100" src = "https://github.com/alfaArghya/alfaArghya/blob/main/assets/java.png">
   <img   src = "https://github.com/alfaArghya/alfaArghya/blob/main/assets/html.svg">
   <img   src = "https://github.com/alfaArghya/alfaArghya/blob/main/assets/css.svg">
+  <img  src = "https://github.com/alfaArghya/alfaArghya/blob/main/assets/javascript.svg">
   <img  src = "https://github.com/alfaArghya/alfaArghya/blob/main/assets/bootstrap.svg">
 </div>
   
