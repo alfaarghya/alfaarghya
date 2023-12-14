@@ -3,7 +3,7 @@ My name is Arghya Das. Currently I am a B.Tech student and I love to learn new
 technology. Now days I am working on my problem solving skills on @leetcode and beside that I am working on my FrontEnd Development Skill.
 
 ### My latest post
-- <a  href = "https://www.linkedin.com/posts/alfaarghya_day1-html5-css-activity-7088391879876079616-dwSA?utm_source=share&utm_medium=member_android" target="_blank"> Pixel Art Palette </a>
+- <a  href = "https://www.linkedin.com/feed/update/urn:li:activity:7129304254728536064/" target="_blank"> Typing Test </a>
 
 ### :fire: My Stats :
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfaArghya&theme=holi-theme&show_icon=true)](https://git.io/streak-stats)-->
@@ -29,7 +29,7 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
 
 - LeetCode: <a  href = "https://leetcode.com/alfa_arghya/" target="_blank">alfaArghya</a>
 
-- Instagram: <a  href = "https://www.instagram.com/__alfaarghya__/" target="_blank"> __alfaArghya__ </a>
+- Instagram: <a  href = "https://www.instagram.com/alfaarghya/" target="_blank">alfaArghya</a>
 
 - 📫Reach me: arghya.coding@gmail.com
 
