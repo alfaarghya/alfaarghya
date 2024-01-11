@@ -15,7 +15,7 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfaArghya)](https://github.com/alfaArghya/github-readme-stats)-->
 
 ### 👨🏽‍💻Technologies that I use
-<div style = "disply : flex">
+<div style = "display : flex">
   <img width = "100" src = "https://github.com/alfaArghya/alfaArghya/blob/main/assets/java.png">
   <img   src = "https://github.com/alfaArghya/alfaArghya/blob/main/assets/html.svg">
   <img   src = "https://github.com/alfaArghya/alfaArghya/blob/main/assets/css.svg">
