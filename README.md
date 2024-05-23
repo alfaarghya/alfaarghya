@@ -6,7 +6,7 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
 - <a  href = "https://www.linkedin.com/feed/update/urn:li:activity:7129304254728536064/" target="_blank"> Typing Test </a>
 
 <!--### :fire: My Stats :-->
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfaArghya&theme=holi-theme&show_icon=true)](https://git.io/streak-stats)-->
+[![GitHub Streak](`https://github-profile-trophy.vercel.app/?username=alfaarghya&theme=transparent&no-frame=true&no-bg=true)]
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfaArghya&theme=windows-dark&show_icon=true)](https://git.io/streak-stats)-->
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=alfaArghya&theme=github-dark-blue)](https://git.io/streak-stats)-->
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfaArghya&theme=github-dark-blue)](https://git.io/streak-stats)-->
