@@ -14,6 +14,36 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfaArghya&theme=transparent)](https://git.io/streak-stats)-->
 <!-- ![Arghya's github stats](https://github-readme-stats.vercel.app/api?username=alfaArghya&theme=github_dark_blue) -->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfaArghya)](https://github.com/alfaArghya/github-readme-stats)-->
+<img
+          className="m-2"
+          src={`https://github-profile-trophy.vercel.app/?username=alfaarghya&theme=transparent&no-frame=true&no-bg=true`}
+          alt="trophy"
+        />
+        <img
+          className="m-2"
+          src={`https://github-readme-streak-stats.herokuapp.com?theme=transparent&user=alfaarghya`}
+          alt="trophy"
+        />
+        <img
+          className="m-2"
+          src={`https://github-readme-stats.vercel.app/api?username=alfaarghya&theme=transparent`}
+          alt="trophy"
+        />
+         <img
+          className="m-2"
+          src={`https://github-readme-stats.vercel.app/api/top-langs/?username=alfaarghya&theme=transparent`}
+          alt="img"
+        />
+        <img
+          className="m-2"
+          src={`https://visitcount.itsvg.in/api?id=alfaarghya&icon=5&color=6`}
+          alt="img"
+        />
+        <img
+          className="m-2"
+          src={`https://github-contributor-stats.vercel.app/api?username=alfaarghya&limit=5&theme=transparent&combine_all_yearly_contributions=true`}
+          alt="img"
+        />
 
 ### 👨🏽‍💻Technologies that I use
 <div style = "display : flex">
