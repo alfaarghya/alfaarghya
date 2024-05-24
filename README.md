@@ -23,14 +23,14 @@ technology. Now days I am working on my problem solving skills on @leetcode and 
 - <a  href = "https://www.linkedin.com/feed/update/urn:li:activity:7129304254728536064/" target="_blank"> Typing Test </a>
 
 <!--### :fire: My Stats :-->
-[![GitHub Streak](`https://github-profile-trophy.vercel.app/?username=alfaarghya&theme=transparent&no-frame=true&no-bg=true)]
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfaArghya&theme=windows-dark&show_icon=true)](https://git.io/streak-stats)-->
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=alfaArghya&theme=github-dark-blue)](https://git.io/streak-stats)-->
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfaArghya&theme=github-dark-blue)](https://git.io/streak-stats)-->
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfaArghya&theme=blueberry-duo)](https://git.io/streak-stats)-->
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfaArghya&theme=transparent)](https://git.io/streak-stats)-->
-<!-- ![Arghya's github stats](https://github-readme-stats.vercel.app/api?username=alfaArghya&theme=github_dark_blue) -->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfaArghya)](https://github.com/alfaArghya/github-readme-stats)-->
+## About
+👋 Hii, I'm .... , a Fullstack-engineer from India.
+  💻 I'm currently Working on ....
+  👯 I'm looking to collaborate on ....
+  🤝 I'm looking for help with ....
+  🌱 I'm currently learning ....
+  💬 Ask me about ....
+
 <img
           className="m-2"
           src={`https://github-profile-trophy.vercel.app/?username=alfaarghya&theme=transparent&no-frame=true&no-bg=true`}
