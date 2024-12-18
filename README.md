@@ -39,9 +39,9 @@ I'm Arghya Das, a developer from INDIA 🇮🇳. I love to build websites
 
 ![](https://github-profile-trophy.vercel.app/?username=alfaarghya&theme=transparent&no-frame=true&no-bg=true) -->
 
-## GitHub Stats📊
+<!-- ## GitHub Stats📊
 
-![](https://github-readme-streak-stats.herokuapp.com?theme=transparent&user=alfaarghya)
+![](https://github-readme-streak-stats.herokuapp.com?theme=transparent&user=alfaarghya) -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfaarghya&theme=transparent&langs_count=3) -->
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=alfaarghya&limit=5&theme=transparent&combine_all_yearly_contributions=true) -->
