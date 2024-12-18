@@ -1,8 +1,6 @@
   <div align="center">
-      <!-- <img width=200 style="border-radius:50%" src="https://avatars.githubusercontent.com/alfaarghya"/> -->
-      
-![](https://github-readme-streak-stats.herokuapp.com?theme=transparent&user=alfaarghya)
-    </div>
+    <img src="https://github-readme-streak-stats.herokuapp.com?theme=transparent&user=alfaarghya"/>
+  </div>
   
   <div align="center">
     <img src="https://visitcount.itsvg.in/api?id=alfaarghya&icon=5&color=6"/>
