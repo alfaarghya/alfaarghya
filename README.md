@@ -36,6 +36,10 @@ I'm Arghya Das, a developer from INDIA 🇮🇳. I love to build websites
 ![](https://img.shields.io/badge/Tools-Notion-informational?style=flat&logo=notion&logoColor=white&color=316192)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=316192)
 
+## 🏆 Badges
+
+[![An image of @alfaarghya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alfaarghya)](https://holopin.io/@alfaarghya)
+
 <!-- ## Top Contributed Repo🔝
 
 ![](https://github-profile-trophy.vercel.app/?username=alfaarghya&theme=transparent&no-frame=true&no-bg=true) -->
