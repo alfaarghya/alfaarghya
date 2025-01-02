@@ -56,5 +56,9 @@ I'm Arghya Das, a developer from INDIA 🇮🇳. I love to build websites
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alfaarghya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alfaarghya) [![LeetCode](https://img.shields.io/badge/LeetCode-%2320232a.svg?style=normal&logo=LeetCode&logoColor=%FFA116)](https://leetcode.com/alfaarghya/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alfaarghya)
 
+<img src="https://raw.githubusercontent.com/alfaarghya/alfaarghya/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- Generate with ReadHub.md 🤝
   code with 💙 by alfaarghya-->
