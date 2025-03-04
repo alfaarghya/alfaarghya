@@ -2,9 +2,9 @@
     <img alt="GitHub stats" src="https://github-readme-streak-stats.herokuapp.com?theme=transparent&user=alfaarghya"/>
   </div>
   
-  <div align="center">
+  <!-- <div align="center">
     <img src="https://visitcount.itsvg.in/api?id=alfaarghya&icon=5&color=6"/>
-  </div>
+  </div> -->
 
 # Hii 👋
 
