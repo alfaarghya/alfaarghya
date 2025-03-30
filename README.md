@@ -8,7 +8,8 @@
 
 # Hii 👋
 
-I'm Arghya Das, a developer from INDIA 🇮🇳. I love to build websites
+I'm Arghya Das, a developer from INDIA 🇮🇳.
+I love to learn & work with new Technologies.
 
 ## 🔧 Technologies
 
